@@ -325,9 +325,4 @@ This project is licensed under the MIT License.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📧 Contact
-
-Samuel Baldasso - samuel@example.com
-
-Project Link: [https://github.com/yourusername/inventory-aws](https://github.com/yourusername/inventory-aws)
-# Java-Inventory-Microservice-AWS
+Project Link: [https://github.com/samuelbaldasso/Java-Inventory-Microservice-AWS](https://github.com/samuelbaldasso/Java-Inventory-Microservice-AWS)
